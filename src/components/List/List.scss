@@ -1,0 +1,23 @@
+.list-wrap {
+    width: 300px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: 0;
+    text-align: left;
+    height: 350px;
+    overflow: auto;
+    padding: 12px;
+    margin: 12px 0;
+    background: bisque;
+    position: absolute;
+    li{
+        list-style-type: none;
+        border-bottom: 1px solid #aaa;
+        padding: 6px;
+        cursor: pointer;
+        color: #aaa;
+    }
+    li:last-child{ 
+        border: none;
+    }
+}
