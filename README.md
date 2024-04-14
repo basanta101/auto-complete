@@ -1,8 +1,19 @@
-# React + Vite
+# AutoComplete
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal auto complete example, created using React.
+=
+## How to run the Project?
+To run the project, cd /path/to/root/folder
+```
+npm i
+npm run dev
+```
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project was created using 
+
+- React
+- Vite 
+- Node(v20)
+
+ 
